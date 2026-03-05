@@ -104,7 +104,7 @@ Quick installation with minimal storage usage.
 Download the latest version directly from GitHub Releases.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest">
+  <a href="https://github.com/Jaat-Sachin/VeloraMusic/releases/tag/v1.0">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github">
   </a>
 </p>
