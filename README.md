@@ -99,6 +99,13 @@ Quick installation with minimal storage usage.
 
 ---
 
-# 📥 Download
+## 📥 Download Velora Music
 
-👉 Go to **Releases** and download the latest version.
+Download the latest version directly from GitHub Releases.
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
+
